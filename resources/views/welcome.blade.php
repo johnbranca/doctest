@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel - Welcome Valley
                 </div>
 
                 <div class="links">
